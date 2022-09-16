@@ -1,0 +1,70 @@
+body{
+  background-image: url("https://media.istockphoto.com/vectors/gambling-dices-seamless-pattern-on-dark-background-vector-vector-id1024064424?k=20&m=1024064424&s=612x612&w=0&h=DzXxGXWYC_qzeOdafu657tkclsnJcGbvSpmMdGvAuj0=");
+  }
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+.size1 {
+  margin: 10px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #4ECCA3;
+}
+h3 {
+  text-align: center;
+  margin: 0.50% auto;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 3rem;
+  color: #4ECCA3;
+}
+
+p {
+  filter: glow(color=black,strength=1);
+    text-shadow: -10px -10px 0 #000,
+    10px -10px 0 #000,
+    -10px 10px 0 #000,
+    10px 10px 0 #000;
+  font-weight: bolder;
+  font-size: 3rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 70%;
+}
+
+footer {
+  margin-top: 0.50%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+#myText1{
+  background-color: black;
+  color: white;
+}
+#myText2{
+  background-color: black;
+  margin: 0.50%;
+    color: white;
+}
+.btn{
+  margin: 1% 46%;
+}
